@@ -12,7 +12,7 @@
     "prefix": "wrapper image",
     "body": [
       "    {{< image",
-      "     class=\"${1|hero-grid__imageBlock,details-grid__twentyWords image-block__left,details-grid__twentyWords image-block__right,details-grid__twoByTwo image-block__left,details-grid__twoByTwo image-block__right,details-grid__fiftyWords big-image,details-grid__fiftyWords small-image|}\"",
+      "     class=\"${1|hero-grid__copyBlock,hero-grid__imageBlock,details-grid__twentyWords image-block__left,details-grid__twentyWords image-block__right,details-grid__twoByTwo image-block__left,details-grid__twoByTwo image-block__right,details-grid__fiftyWords big-image,details-grid__fiftyWords small-image|}\"",
       "     src=\"$CLIPBOARD\"",
       "     srcsetOne=\"$2\"",
       "     srcsetTwo=\"$3  2x\"",
